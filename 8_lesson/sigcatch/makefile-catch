@@ -1,0 +1,5 @@
+catchsig:catchsig.c
+	gcc -o catchsig catchsig.c
+.PHONY:clean
+clean:
+	rm -f catchsig
