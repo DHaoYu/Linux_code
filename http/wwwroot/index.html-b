@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<head>
+	<title>我的首页</title>
+</head>
+<body>
+<h3>video<h3>
+	<video src="video/my_video.mp4" width="320" height="240" controls="controls">
+	</video>
+</body>
+</html>
